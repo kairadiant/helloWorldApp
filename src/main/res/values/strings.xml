@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_text">Say Hello!</string>
+    <string name="textView_Text">Hello World! My name is Kayla and this is my dog Mika!</string>
+    <string name="imageDescription">Picture of Mika</string>
+</resources>
