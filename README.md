@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/Jf8B939.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=['https://i.imgur.com/Jf8B939.gif'](https://i.imgur.com/Jf8B939.gif) title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with movavi(http://www.movavi.com/).  
